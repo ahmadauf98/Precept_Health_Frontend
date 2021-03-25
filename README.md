@@ -28,8 +28,8 @@ npm run lint
 
 ### Login to use - Email & Password
 
-Email: Mozell.Jacobi@Yahoo.com
-Password: password
+* Email: Mozell.Jacobi@Yahoo.com
+* Password: password
 
 ### Customize configuration
 
