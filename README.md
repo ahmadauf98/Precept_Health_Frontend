@@ -1,4 +1,6 @@
-# Med Dev Manager
+# Med Dev Manager (Frontend developer task)
+
+> This web application is built using Vue 2, Typescript, Tailwind Css & Supplied RESTful endpoint.
 
 ## Project setup
 
@@ -23,6 +25,11 @@ npm run build
 ```
 npm run lint
 ```
+
+### Login to use - Email & Password
+
+Email: Mozell.Jacobi@Yahoo.com
+Password: password
 
 ### Customize configuration
 
